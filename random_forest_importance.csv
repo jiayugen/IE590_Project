@@ -1,0 +1,16 @@
+Sector,Feature,Importance
+Residential,gas_price,0.12300884138398961
+Residential,ng_share,0.8163533051122663
+Residential,gas_receipt,0.060637853503744114
+All Sectors,gas_price,0.1280112986359728
+All Sectors,ng_share,0.7589860880489973
+All Sectors,gas_receipt,0.11300261331502998
+Commercial,gas_price,0.14993173842595744
+Commercial,ng_share,0.7314710795577635
+Commercial,gas_receipt,0.1185971820162791
+Industrial,gas_price,0.18488778061462213
+Industrial,ng_share,0.53706978118954
+Industrial,gas_receipt,0.278042438195838
+Transportation,gas_price,0.2635642892107482
+Transportation,ng_share,0.6216062623457157
+Transportation,gas_receipt,0.11482944844353613
